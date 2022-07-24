@@ -1,0 +1,22 @@
+#div1{
+    width:400px;
+    height:400px;
+    background-color:lightgreen;
+    border-radius: 8px;
+    padding:10px;
+    padding-left:180px;
+}
+
+
+
+button{
+   background-color: orange;
+  
+    padding-top:10px;
+    padding-bottom:10px;
+    color:white;
+    font-weight: bold;
+    width:200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
